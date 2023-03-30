@@ -1,0 +1,14 @@
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.csproj.AssemblyReference.cache
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.AssemblyInfoInputs.cache
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.AssemblyInfo.cs
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.csproj.CoreCompileInputs.cache
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.exe
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.deps.json
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.runtimeconfig.json
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.runtimeconfig.dev.json
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.dll
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\bin\Debug\netcoreapp3.1\gametask2.pdb
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.dll
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.pdb
+C:\Users\Durak\Desktop\gameTask\gameTask2\gametask2\gametask2\obj\Debug\netcoreapp3.1\gametask2.genruntimeconfig.cache
